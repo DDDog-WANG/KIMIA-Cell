@@ -9,4 +9,4 @@ Meghana Dinesh Kumar, Morteza Babaie, Shujin Zhu, Shivam Kalra, and H.R.Tizhoosh
 * This paper introduced a new dataset of histopathology images "KIMIA Path960". From a collection of more than 400 whole slide images (WSIs) of muscle, epithelial and connective tissue etc., we selected 20 scans that "visually" represented different texture/pattern types (purely based on visual clues). We manually selected 48 regions of interest of same size from each WSI and downsampled them to 308x168 patches. Hence, we obtained a dataset of 960(=20x48) images. The images are saved as color TIF files although we do not use the color information (i.e., the effect of staining) in our experiments.
 
 
-<img src="/KIMIA_Path_960.png" alt="KIMIA_Path_960" style="zoom:30%;" />
+<img src="/Database/KIMIA_Path_960.png" alt="KIMIA_Path_960" style="zoom:30%;" />
