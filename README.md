@@ -8,7 +8,7 @@ This has 3 files（ `Database`,  `image classification  ` , `image matching` ）
 
 * `image matching` is different algorithms that are used to detect key points or some image processing methods.
 
-  <img src="/image matching/SIFT matching.png" alt="SIFT matching" style="zoom:30%;" />
+  <img src="/image match/SIFT matching.png" alt="SIFT matching" style="zoom:30%;" />
 
 * `image classification` is my undergraduate research that developed the biological tissue image discrimination model. 
 
